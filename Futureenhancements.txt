@@ -1,0 +1,9 @@
+## Future Enhancements
+
+- Shor's Algorithm
+- Quantum Fourier Transform
+- Quantum Teleportation
+- Simon's Algorithm
+- Quantum Random Number Generator
+- Export results to CSV
+- Dark mode interface
