@@ -1,5 +1,6 @@
-qiskit
-qiskit-aer
-matplotlib
-numpy
-pandas
+## Requirements
+
+- Python 3.10+
+- Qiskit
+- Qiskit Aer
+- Matplotlib
