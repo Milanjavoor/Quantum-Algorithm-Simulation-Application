@@ -31,9 +31,3 @@ Finds a hidden binary string using a single oracle query.
 - Qiskit Aer
 - Matplotlib
 
-## Installation
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
