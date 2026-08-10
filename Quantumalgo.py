@@ -6,6 +6,7 @@ from qiskit.visualization import plot_histogram
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
+import sklearn as sk
 
 #--------------- Grover's algorithm --------------------------------------------------------------------------------------------
 
